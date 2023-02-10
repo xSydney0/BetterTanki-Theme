@@ -1,0 +1,18 @@
+{
+  "author": "Sydney",
+  "manifest_version": 2,
+  "name": "BetterTanki Theme",
+  "description": "This changes the look of Tanki Online HTML5 interface. I made this specifically to give Tanki Online a better look.",
+  "version": "1.0.3",
+  "icons": {
+    "350": "site/350.png"
+  },
+  "browser_action": {
+    "default_name": "BetterTanki Theme",
+    "default_popup": "httptp"
+  },
+  "content_scripts": [{
+      "matches": ["https://*.tankionline.com/play/*", "https://*.test.tankionline.com/*"],
+      "js": ["theme/theme.js"]
+  }]
+}
