@@ -7,7 +7,7 @@
 
 
 ## 🚀v1.0.2.5 Patch - 2/10/2023
-
+### •Fixed "Remove From Friends List"
 ### •Fixed player information (TAB) in DM battles due to the new patch in TO
 
 ## 🚀v1.0.2 - 2/5/2023
