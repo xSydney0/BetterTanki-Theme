@@ -3,7 +3,7 @@
 
 
 
-🧾Changelogs for BetterTanki Theme
+# 🧾Changelogs for BetterTanki Theme
 
 
 🚀v1.0.2.5 Patch - 2/10/2023
