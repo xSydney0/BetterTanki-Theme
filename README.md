@@ -28,5 +28,6 @@
 
 🚀v1.0.0 - 12/24/2022
 
+•Added it to the game
 •Work on BetterTanki Theme has began
 
