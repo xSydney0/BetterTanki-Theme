@@ -1,7 +1,0 @@
-*{margin:0;padding:0;border:0;box-sizing:border-box;font-family:Montserrat,sans-serif,serif}body,html{outline:0;text-align:center;text-decoration:none;color:#fff}
-.main {width: 100%;height: 100%;background: radial-gradient(52.03% 75.56%at 106.17% 121.39%, #27272700 0%, #27272700 100%), radial-gradient(44.55% 75.89% at 50% 51.39%, #2e2e2e4d -29%, #1b1b1b00 100%), #0c0c0c;z-index: -1;position: absolute;border-radius: 0 0 18px 18px;}
-.info_title{color:#fe5151}
-.info_subtitle{padding:30px 0 0 0;color:#eaeaea;font-size:14px}
-.button{transition:.5s;margin:45px 0 15px 0;padding:10px 35px 10px 35px;font-size:15px;font-weight:800;color:#ffffff;background:#0044ff;box-shadow:0 5px 30px #2761ff;cursor:pointer;border-radius:7px}
-.button:hover{box-shadow:0 5px 45px #2761ff}.dev{margin:37px 0 35px 0}
-.nicknames{font-size:11px;font-weight:500;opacity:.5}
